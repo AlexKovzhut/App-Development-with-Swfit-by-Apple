@@ -1,2 +1,2 @@
-# App Development with Swfit by Apple
- Exercises from book: App Development with Swfit by Apple
+# App Development with Swift by Apple
+ Exercises from book: App Development with Swift by Apple
